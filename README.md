@@ -3,6 +3,6 @@ Un proyecto dedicado a explorar el impacto de las lenguas indígenas de América
 
 A project dedicated to exploring the impact of indigenous languages from the Americas on Spanish and English. Provides information of vocabulary, geographic locations, and historical richness.
 
-I'm Mónica Correa, History Teacher and Data Journalist currently working as Technical Writer
+I'm Mónica Correa, a History Teacher and Data Journalist currently working as a Technical Writer
 
 www.monicacorrea.com
