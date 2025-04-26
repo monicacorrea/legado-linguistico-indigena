@@ -12,3 +12,14 @@ A project dedicated to exploring the impact of indigenous languages from the Ame
 I'm Mónica Correa, a History Teacher and Data Journalist currently working as a Technical Writer. This is a personal project.
 
 www.monicacorrea.com
+
+## Licencia
+
+Este proyecto está licenciado bajo la **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**. 
+
+### Condiciones:
+- Puedes **usar**, **modificar** y **compartir** este proyecto, incluso con fines comerciales.
+- **Es obligatorio otorgar el crédito correspondiente**, proporcionando una atribución clara que mencione mi nombre como la creadora del proyecto.
+
+### Ejemplo de atribución:
+> "Este proyecto fue creado por [Mónica Correa](https://www.monicacorrea.com) y está licenciado bajo la [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
